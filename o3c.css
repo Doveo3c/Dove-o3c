@@ -1,0 +1,24 @@
+.cycle {
+    width: 100px;
+    height: 100px;
+    background-color: #2600ff;
+    border-radius: 50%;
+    margin: 20px;
+  }
+  
+  .square {
+    width: 100px;
+    height: 100px;
+    background-color: #fbff00;
+    margin: 20px;
+  }
+  
+  .triangle {
+    width: 0;
+    height: 0;
+    border-left: 50px solid transparent;
+    border-right: 50px solid transparent;
+    border-bottom: 100px solid #c41212;
+    margin: 20px;
+  }
+  
